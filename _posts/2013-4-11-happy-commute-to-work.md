@@ -9,10 +9,12 @@ title: 나를 돌아보게 하는 책 '행복한 출근길'
 
 
 ---
+<p align="center">
+
+<img src='/images/happy.jpg' "행복한 출근길">
 
 
-![행복한 출근길](/images/happy.jpg "행복한 출근길")
-
+</P>
 
 
 출근길이 행복하려면 어떤 마음가짐이어야 할까?
