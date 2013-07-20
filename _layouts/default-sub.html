@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+   <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+   <title>{{ page.title }}</title>
+   <meta name="author" content="beatshon" />
+   <link href="http://beatshon.github.com/atom.xml" rel="alternate" title="Mind Log" type="application/atom+xml" />
+
+   <!-- syntax highlighting CSS -->
+   <link rel="stylesheet" href="/css/GitHub.css" type="text/css" />
+
+   <!-- Homepage CSS -->
+   <link rel="stylesheet" href="/css/screen.css" type="text/css" media="screen, projection" />
+
+<script src="http://www.google.com/jsapi"></script>
+
+<script>
+google.load( "webfont", "1" );
+google.setOnLoadCallback(function() {
+WebFont.load({ custom: {
+families: [ "NanumGothic" ],
+urls: [ "http://fontface.kr/NanumGothic/css" ]
+}});
+});
+</script>
+<link href='http://api.mobilis.co.kr/webfonts/css/?fontface=NanumGothicWeb' rel='stylesheet' type='text/css' />
+
+
+
+</head>
+<body>
+
+<div class="site">
+  <div class="title">
+    <a href="/">Mind Log</a> 
+    <a class="extra" href="http://instagram.com/beatshon">Photo Log</a>
+    <a class="extra" href="https://delicious.com/jacebookmark">Bookmark Log</a>
+    <!--<a class="extra" href="http://beautifulmind.tistory.com/">Photo Log</a>-->
+    <a class="extra" href="http://watcha.net/user/zvbZdOyTek6C/review/movies">Movie Log</a>
+	<!-- <a class="extra" href="http://beatshon.com/">Family Log</a> -->
+	<a class="extra" href="http://beatshon.tumblr.com/">Mobile Log</a>
+	<!--<a class="extra" href="http://topica.tistory.com/">Data Log</a>-->
+	<!--<a class="extra" href="http://www.interest.me/f_1384156682">Interest Log</a>-->
+	
+  </div>
+  
+  {{ content }}
+  
+  <div class="footer">
+    <div class="contact">
+	  <a name="stalk"></a>
+      <p>
+        *블로그 History<br />
+        *트위터<br />
+        *페이스북
+      </p>
+    </div>
+    <div class="contact">
+      <p>
+        <a href="http://github.com/beatshon/">github.com/beatshon</a><br />
+        <a href="http://twitter.com/beatshon/">twitter.com/beatshon</a><br />
+        <a href="http://facebook.com/beatshon/">facebook.com/beatshon</a>
+      </p>
+    </div>
+    <div class="rss">
+      <a href="http://beatshon.github.com/atom.xml">
+        <img src="/images/rss.png" alt="Subscribe to RSS Feed" />
+      </a>
+    </div>
+  </div>
+</div>
+
+<!-- Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29786791-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!---google anlystics-->
+
+</body>
+</html>
