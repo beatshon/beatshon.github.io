@@ -27,6 +27,6 @@ title: 과거로부터의 엽서 한장
 <p align=center>
 
 <img src='/images/postcard.png' "postcard">
-
+ㅋㅋㅋㅋ
 </P>
 
