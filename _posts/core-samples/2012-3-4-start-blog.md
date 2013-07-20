@@ -1,10 +1,10 @@
 ---
 layout: post
-title: 블로그 새롭게 시작합니다. 
+category : lessons
+tagline: "Supporting tagline"
+tags : [블로그]
 ---
 
-{{ page.title }}
-================
 
 <p class="meta">2011년 3월 4일</p>
 
