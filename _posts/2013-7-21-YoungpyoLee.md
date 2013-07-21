@@ -34,7 +34,7 @@ title: 이영표의 재발견
 
 <br>
 
-*생각의 발아점 : [이영표 선수 페이스북 글](http://on.fb.me/1aBjYWi)
+*생각의 발아점 : [이영표 선수의 페이스북 글](http://on.fb.me/1aBjYWi)
 
 *추천 영상 : [이영표 선수가 생각하는 리더십](http://www.youtube.com/embed/HxzYZbQjeVE)
 
