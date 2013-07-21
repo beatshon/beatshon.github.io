@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 이영표의 재발견
+title: 지금 어떤 벤치에 앉아있습니까?
 ---
 
 **{{ page.title }}** <p class="meta">2013년 7월 21일</p>
