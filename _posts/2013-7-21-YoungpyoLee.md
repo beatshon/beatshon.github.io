@@ -8,7 +8,7 @@ title: 이영표의 재발견
 
 ---
 <p align=center>
-<img src=/images/yongpyolee.jpg>
+<img src=http://beatshon.github.io/images/yongpyolee.jpg>
 </p>
 <br>
 
