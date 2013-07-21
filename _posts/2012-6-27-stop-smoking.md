@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 금연 kick off
+title: 금연 시작합니다. 
 ---
 
 {{ page.title }}
