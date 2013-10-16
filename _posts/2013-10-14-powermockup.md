@@ -21,10 +21,11 @@ title: 막강한 기획툴 Powermockup
 
 화면 설계서를 조금 더 효율적으로 작성할 수 있는 툴이 없을까 고민하다가 발견한 프로그램이 파워목업(PowerMockup)이다. 
 
-다운로드 : http://www.powermockup.com/download 
+* 다운로드 : [http://www.powermockup.com/download](http://www.powermockup.com/download)
+
 
 <p align=center>
-<img src='/images/1.jpg'>
+<img src='/images/1.png'>
 </P>
 
 
