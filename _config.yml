@@ -1,4 +1,4 @@
-title:            Scribble
+title:            mindlog
 description:      A jekyll theme. Because I scribble.
 url:              # Site url.
 signoff:          # Your name.
@@ -10,10 +10,10 @@ links:
   - name:         About
     url:          /about
   - name:         Blog
-    url:          http://muan.co
+    url:          http://beatshon.com
     external:     true
   - name:         Email
-    url:          mailto:hello@muan.co
+    url:          mailto:beatshon@gmail.com
     external:     true
   - name:         GitHub
     url:          http://github.com/muan
