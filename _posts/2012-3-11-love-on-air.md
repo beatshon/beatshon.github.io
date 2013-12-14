@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 한줄 영화평-원더풀 라디오(2011)
+disqus: y
 ---
 
-**{{ page.title }}** <p class="meta">2012년 3월 21일</p>
 
 
 ---

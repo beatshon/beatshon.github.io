@@ -1,11 +1,9 @@
 ---
 layout: post
 title: 과거로부터의 엽서 한장
+disqus: y
 ---
 
-**{{ page.title }}** <p class="meta">2012년 3월 21일</p>
-
----
 
 
 
