@@ -2,6 +2,7 @@
 layout: post
 title: 인상 깊은 광고 2종
 disqus: y
+date: 2012-04-13 22:27:31
 ---
 
 
