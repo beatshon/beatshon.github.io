@@ -2,11 +2,12 @@
 layout: post
 title: 기분이 우울할 때 듣는 자언자어
 disqus: y
+date: 2013-04-10 21:25:31
 ---
 
 </br>
 
-<iframe width="500" height="315" src="http://www.youtube.com/embed/6TOT9TrWTls" frameborder="0" allowfullscreen></iframe>
+<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/6TOT9TrWTls?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/6TOT9TrWTls?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 </br>
 
