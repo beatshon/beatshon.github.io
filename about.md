@@ -3,8 +3,16 @@ layout: page
 title: About
 ---
 
-Give people something to read and get to know you. Here's my attempt: this is [Mu-An](http://muan.co), a designer developer who lives in London at the moment.
+>그릇을 만드는 것은 흙이지만 그릇을 쓸모있게 만드는 것은 빈 공간이다.
 
-Tweet at [@muanchiou](http://twitter.com/muanchiou), read my code on [GitHub](http://github.com/muan), see my designs on [Dribbble](http://dribbble.com/muan), find my CV on [LinkedIn](http://uk.linkedin.com/in/muanchiou).
+노자의 말씀이다. 아무리 좋은 흙을 빚어 만들어진 그릇이라 할지라도 속이 비어 있지 않으면 쓸수가 없다. 반대로 속이 비었다고 할지라도 채워 넣을 것이 없다면 역시 무용지물이다.
 
-This theme is made by me. You have a nice day. ♥
+블로그로 무엇을 이루고 싶은 사람이 많아 보인다. 대부분 속물근성의 음험하고 흉악한 손길이 뻗어 애드센스와 같은 문맥광고 수익의 푼돈 몇푼에 일희일비하거나, 유명 블로거의 완장으로 누릴 수 있는 입신양명의 달콤한 꿈에 젖기도 한다. 내 욕심이 가득찬 내 안에는 무엇 하나 우겨 넣을 공간은 없는 법이다.
+
+블로그로 소위 유명해지는 부류의 특징을 따져보면 남다른 자질과 능력, 그리고 근성이 블로그에 고스란이 녹아있다. LOG의 원뜻대로 삶의 구비구비 사유하는 노력들을 차곡히 자신을 블로그 안에 담아낸 사람들이 대부분이다. 이런 노력이 하루 아침에 이루어진 것은 아니다.
+
+이들은 굳이 블로그가 아니라 다른 일에 역량을 쏟아 부었더라도 성공이 예견되었을 그런 사람들이 대부분이다. “블로그로 인해 무엇이 되었어요.” “블로그가 무엇을 만들어 주었어요”라고 말하는 사람은 본인이 그럴만한 자질과 능력이 애초에 있었기 때문에 가능한 것일 뿐이다.
+
+그릇을 만드는 것은 흙이지만 그릇을 쓸모있게 하는 것은 그릇 속의 빈 공간이다. 블로깅은 익명이라 할지라도 그런 공간에 자신을 채워넣는 일이다. 그래서 블로그는 욕심을 비우고 자신의 실존을 담아내는 그릇이 되어야 한다. 그러기 위해서는 자신을 한번 돌아보고 가꾸는 일에 먼저 충실해야 한다.
+
+You have a nice day. ♥
