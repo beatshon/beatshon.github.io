@@ -1,9 +1,9 @@
 ---
 layout: post
 title: 인상 깊은 광고 2종
+disqus: y
 ---
 
-**{{ page.title }}** <p class="meta">2013년 3월 21일</p>
 
 
 ---
