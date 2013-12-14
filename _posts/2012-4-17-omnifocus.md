@@ -1,13 +1,9 @@
 ---
 layout: post
 title: 옴니포커스 예찬
+disqus: y
 ---
 
-{{ page.title }}
-================
-<p class="meta">2012년 5월 10일</p>
-
----
 
 난 GTD 예찬론자다. 성격탓일까, 정해진 타임라인대로 일상이 흘러가지 않으면 불안하고 개운하지 못하다. 오랫동안 [things](http://culturedcode.com/things)를 사용해오다가 몇가지 불만족스러운 부분들 때문에 [wunderlist](http://www.wunderlist.com/)로 갈아탔다.
 
