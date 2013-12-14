@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 주진우의 정통시사활극 주기자
----
-
-{{ page.title }}
-================
-<p class="meta">2012년 6월 22일</p>
-
+disqus: y
 ---
 [출퇴근 독서 #1] 
 
