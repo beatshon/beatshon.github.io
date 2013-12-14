@@ -2,6 +2,9 @@
 layout: post
 title: 한줄 영화평-원더풀 라디오(2011)
 disqus: y
+share: y
+date: 2012-03-11 20:25:32
+
 ---
 
 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: 비지니스모델의 탄생-서클즈 강연 후기
-disqus: y
+disqus:y
+share: y
+date: 2012-06-25 20:25:32
 ---
 [출퇴근 독서 #2] 
 

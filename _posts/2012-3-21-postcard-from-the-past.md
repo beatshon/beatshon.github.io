@@ -2,6 +2,9 @@
 layout: post
 title: 과거로부터의 엽서 한장
 disqus: y
+share: y
+date: 2012-03-21 20:25:32
+
 ---
 
 

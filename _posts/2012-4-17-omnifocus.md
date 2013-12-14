@@ -2,6 +2,8 @@
 layout: post
 title: 옴니포커스 예찬
 disqus: y
+share: y
+date: 2012-04-17 20:25:32
 ---
 
 
