@@ -2,6 +2,8 @@
 layout: post
 title: 클라우드 라이프 
 disqus: y
+share: y
+date: 2013-02-27 22:25:32
 ---
 <p align=center>
 <img src='/images/cloud.jpg'"클라우드 웹생태계">

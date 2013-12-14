@@ -2,6 +2,8 @@
 layout: post
 title: 나를 돌아보게 하는 책 '행복한 출근길' 
 disqus: y
+share: y
+date: 2013-04-11 23:09:32
 ---
 
 <p align="center">

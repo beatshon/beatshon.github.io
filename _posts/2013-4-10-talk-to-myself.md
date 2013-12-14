@@ -2,6 +2,7 @@
 layout: post
 title: 기분이 우울할 때 듣는 자언자어
 disqus: y
+share: y
 date: 2013-04-10 21:25:31
 ---
 

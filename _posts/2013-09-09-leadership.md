@@ -2,6 +2,8 @@
 layout: post
 title: 프로페셔널리즘에 대한 짧은 생각 
 disqus: y
+share: y
+date: 2013-09-09 22:34:32
 ---
 
 ![프로페셔널](http://beatshon.github.io/images/pro.png)
