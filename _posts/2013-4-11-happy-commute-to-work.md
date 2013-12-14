@@ -1,14 +1,9 @@
 ---
 layout: post
 title: 나를 돌아보게 하는 책 '행복한 출근길' 
+disqus: y
 ---
 
-**{{ page.title }}** 
-
-<p class="meta">2013년 4월 11일</p>
-
-
----
 <p align="center">
 
 <img src='/images/happy.jpg' "행복한 출근길">

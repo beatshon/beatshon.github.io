@@ -1,12 +1,9 @@
 ---
 layout: post
 title: 기분이 우울할 때 듣는 자언자어
+disqus: y
 ---
 
-**{{ page.title }}** <p class="meta">2013년 4월 10일</p>
-
-
----
 </br>
 
 <iframe width="500" height="315" src="http://www.youtube.com/embed/6TOT9TrWTls" frameborder="0" allowfullscreen></iframe>

@@ -1,12 +1,7 @@
 ---
 layout: post
 title: 클라우드 라이프 
----
-
-{{ page.title }}
-================
-
-<p class="meta">2013년 2월 27일</p>
+disqus: y
 ---
 <p align=center>
 <img src='/images/cloud.jpg'"클라우드 웹생태계">

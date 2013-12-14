@@ -1,12 +1,9 @@
 ---
 layout: post
 title: 지금 어떤 벤치에 앉아있습니까?
+disqus: y
 ---
 
-**{{ page.title }}** <p class="meta">2013년 7월 21일</p>
-
-
----
 <p align=center>
 <img src=http://beatshon.github.io/images/yongpyolee.jpg>
 </p>
