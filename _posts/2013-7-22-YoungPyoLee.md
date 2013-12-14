@@ -2,6 +2,8 @@
 layout: post
 title: 지금 어떤 벤치에 앉아있습니까?
 disqus: y
+share: y
+date: 2013-07-22 21:25:32
 ---
 
 <p align=center>
