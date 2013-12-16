@@ -27,6 +27,9 @@ date: 2013-08-20 22:39:00
 
 - 은채에게 보내는 미래편지: [http://beatshon.com/diary](http://beatshon.com/diary) 
 
+</br>
+</br>
+</br>
 @그날의 가을이는 결국 '은채'라는 예쁜 이름을 얻었다. 
 
 
