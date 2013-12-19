@@ -15,7 +15,9 @@ date: 2012-04-13 22:27:31
 
 > [네이버 앱 지식인 광고](http://www.youtube.com/watch?v=zixmVa_EyGQ) - 지식in 앱으로 해결하는 우리아이 육아
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/zixmVa_EyGQ?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/zixmVa_EyGQ?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
+
+<embed src="http://www.youtube.com/v/zixmVa_EyGQ?version=3&amp;hl=ko_KR&amp;vq=hd720" type="application/x-shockwave-flash" width="420" height="360" ="always" allowfullscreen="true"></embed>
 
 > 
 
@@ -25,7 +27,6 @@ date: 2012-04-13 22:27:31
 > [구글 크롬 광고](http://www.youtube.com/watch?v=SHZFsJKlsuA)  - 벽돌깨기 게임으로 구글크롬 컨셉 설명 
 >
 
-<object width="560" height="315"><param name="movie" value="//www.youtube.com/v/SHZFsJKlsuA?hl=ko_KR&amp;version=3"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/SHZFsJKlsuA?hl=ko_KR&amp;version=3" type="application/x-shockwave-flash" width="560" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
-
+<embed src="http://www.youtube.com/v/SHZFsJKlsuA?version=3&amp;hl=ko_KR&amp;vq=hd720" type="application/x-shockwave-flash" width="420" height="360" ="always" allowfullscreen="true"></embed>
 
 두 광고 모두 공통적으로 서비스의 특징을 굵직하게 녹여냈다.  
