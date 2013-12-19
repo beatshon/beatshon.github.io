@@ -8,7 +8,7 @@ date: 2013-04-10 21:25:31
 
 </br>
 
-<object width="420" height="315"><param name="movie" value="//www.youtube.com/v/6TOT9TrWTls?version=3&amp;hl=ko_KR"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="//www.youtube.com/v/6TOT9TrWTls?version=3&amp;hl=ko_KR" type="application/x-shockwave-flash" width="420" height="315" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+<embed src="http://www.youtube.com/v/6TOT9TrWTls?version=3&amp;hl=ko_KR&amp;vq=hd720" type="application/x-shockwave-flash" width="420" height="360" ="always" allowfullscreen="true"></embed>
 
 </br>
 
