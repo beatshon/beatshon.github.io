@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nudge Effect 라이프 
+title: Nudge Effect
 disqus: y
 share: y
 date: 2013-02-20 19:11:32
