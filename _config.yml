@@ -9,7 +9,7 @@ google_analytics: # set tracking, remove from /javascripts/basic.js if unwanted.
 links:
   - name:         About
     url:          /about
-  - name:         Tumblr
+  - name:         blog
     url:          http://beatshon.tumblr.com/
     external:     true
   - name:         Email
