@@ -19,6 +19,8 @@ date: 2012-04-13 22:27:31
 
 > 
 
+<iframe width="420" height="315" src="//www.youtube.com/embed/IdxCs-jVPDc" frameborder="0" allowfullscreen></iframe>
+
 
 > [구글 크롬 광고](http://www.youtube.com/watch?v=SHZFsJKlsuA)  - 벽돌깨기 게임으로 구글크롬 컨셉 설명 
 >
