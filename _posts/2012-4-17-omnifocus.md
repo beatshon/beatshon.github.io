@@ -31,3 +31,7 @@ date: 2012-04-17 20:25:32
 체계적인 일정관리가 필요하다면 주저 않고 추천해줄 수 있는 GTD 프로그램이 바로 [Omnifocus](http://www.omnigroup.com/products/omnifocus/)다. 
 
 </br>
+</br>
+
+@요즘에는 오히려 Things를 더 많이 쓰게된다. 심플하면서도 직관적인 UI때문이다. 2013.12.20 
+
