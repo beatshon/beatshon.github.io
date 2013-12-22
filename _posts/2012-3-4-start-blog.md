@@ -26,7 +26,7 @@ SNS가 시대의 화두, 대세인 시점에서 문득, 블로그로 회귀하�
 3. 블로그 레이아웃을 완전히 내가 바꿀 수 있다.
 4. 언제 어떤 내용을 추가하고 바꿨는지 글에 대한 버전 관리가 된다.
 
-주성치님의 [블로그 이사 중](http://sungchi.github.com/2012/03/04/move-to-new-blog.html) github 특징에서 발췌
+주성치님의 [블로그 이사 중](http://plan9.kr/move-to-new-blog/) github 특징에서 발췌
 
 github를 활용해서 블로그를 운영하려는 분은 아래 링크 참고* 
 
