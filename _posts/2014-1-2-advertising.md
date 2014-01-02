@@ -10,7 +10,7 @@ date: 2014-01-02 22:49:00
 
 ---
 
-<blockquote class="twitter-tweet" lang="ko" width="400"><p>광고에 대한 명쾌하고 직관적인 정의. <a href="http://t.co/SC8Ihpmoti">pic.twitter.com/SC8Ihpmoti</a></p>&mdash; 비트손 (@beatshon) <a href="https://twitter.com/beatshon/statuses/417804741356584960">2013년 12월 30일</a></blockquote>
+<blockquote class="twitter-tweet" lang="ko" width="350"><p>광고에 대한 명쾌하고 직관적인 정의. <a href="http://t.co/SC8Ihpmoti">pic.twitter.com/SC8Ihpmoti</a></p>&mdash; 비트손 (@beatshon) <a href="https://twitter.com/beatshon/statuses/417804741356584960">2013년 12월 30일</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 </br>
