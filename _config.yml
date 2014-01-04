@@ -9,7 +9,7 @@ google_analytics: UA-29786791-1 # set tracking, remove from /javascripts/basic.j
 links:
   - name:         About
     url:          /about
-  - name:         blog
+  - name:         Blog
     url:          http://beatshon.tumblr.com/
     external:     true
   - name:         Email
