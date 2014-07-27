@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  폭스바겐이 User Experience를 바라보는 관점
+title:  폭스바겐의 User Experience
 disqus: y
 share: y
 date: 2014-07-27 22:29:31
