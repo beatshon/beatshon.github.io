@@ -11,7 +11,7 @@ date: 2012-04-13 22:27:31
 ---
 
 
-최근에 본 2가지 웹서비스의 광고가 인상 깊다. 하나는 네이버의 지식in광고, 또 다른 하나는 구글크롬의 광고 영상.  
+2가지 웹서비스의 광고가 인상 깊다. 하나는 네이버의 지식in광고, 또 다른 하나는 구글크롬의 광고 영상.  
 
 > [네이버 앱 지식인 광고](http://www.youtube.com/watch?v=zixmVa_EyGQ) - 지식in 앱으로 해결하는 우리아이 육아
 
@@ -29,4 +29,4 @@ date: 2012-04-13 22:27:31
 
 <embed src="http://www.youtube.com/v/SHZFsJKlsuA?version=3&amp;hl=ko_KR&amp;vq=hd720" type="application/x-shockwave-flash" width="420" height="360" ="always" allowfullscreen="true"></embed>
 
-두 광고 모두 공통적으로 서비스의 특징을 굵직하게 녹여냈다.  
+두 광고 모두 서비스의 특징을 굵직하게 녹여냈다는 것이 공통점이다. 
