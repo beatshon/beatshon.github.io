@@ -18,6 +18,10 @@ links:
   - name:         GitHub
     url:          https://github.com/beatshon/beatshon.github.com/commits/master
     external:     true
+  - name:         Topica
+    url:          http://topica.tistory.com/
+    external:     true
+
 pygments:         true
 permalink:        pretty
 markdown:         redcarpet
