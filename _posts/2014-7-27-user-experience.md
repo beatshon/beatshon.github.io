@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  폭스바겐의 User Experience
+title: 폭스바겐의 User Experience
 disqus: y
 share: y
 date: 2014-07-27 22:29:31
