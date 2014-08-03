@@ -25,8 +25,6 @@ date: 2013-08-20 22:39:00
 
 나도 이제 아빠가 되었다. 드디어 딸바보가 되고야 말았다. 
 
-- 은채에게 보내는 미래편지: [http://beatshon.com/diary](http://beatshon.com/diary) 
-
 </br>
 </br>
 </br>
