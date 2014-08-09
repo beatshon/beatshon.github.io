@@ -1,6 +1,6 @@
 ---
 layout: post
-title: @농촌 테마파크(용인) 
+title: 용인 농촌테마파크 
 disqus: y
 share: y
 date: 2014-08-09 23:50:00
