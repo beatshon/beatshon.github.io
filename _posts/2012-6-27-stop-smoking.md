@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 금연 시작합니다. 
+title: 금연 시작 
 disqus: y
 share: y
 date: 2013-06-27 20:25:32
