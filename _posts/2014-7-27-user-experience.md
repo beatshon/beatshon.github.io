@@ -9,7 +9,7 @@ date: 2014-07-27 22:29:31
 </br>
 
 <center>
-<embed src="http://www.youtube.com/v/JHixeIr_6BM?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="420" height="360" ="always" allowfullscreen="true"></embed>
+<embed src="http://www.youtube.com/v/0sbz_LmPnvk?hl=ko_KR&amp;version=3&amp;rel=0" type="application/x-shockwave-flash" width="420" height="360" ="always" allowfullscreen="true"></embed>
 </center>
 
 </br>
