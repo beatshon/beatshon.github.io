@@ -248,7 +248,6 @@ section.post {
   text-align: left;
   border-top: 0;
   padding: 0; }
-  text-align: justify;
   section.post > * {
     padding: 0 60px; }
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
@@ -274,7 +273,6 @@ section.post {
 section.post, section > p {
   font-size: 14px;
   line-height: 1.6em; }
-  
   section.post *, section > p * {
     max-width: 100%; }
   section.post em strong, section > p em strong {
