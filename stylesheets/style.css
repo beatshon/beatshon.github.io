@@ -6,11 +6,11 @@ html, body {
 
 body {
  
- 
-@ import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css); 
-  font-family: "Nanum Myeongjo";
-  font-style: normal;
+  background: #f9f9f9;
+  color: #303030;
+  font-family: 'Nanum Myeongjo','Open Sans', sans-serif;
   font-weight: 400;
+
   
   
   font-size: 13px;
