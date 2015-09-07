@@ -248,6 +248,7 @@ section.post {
   text-align: left;
   border-top: 0;
   padding: 0; }
+  text-align: justify;
   section.post > * {
     padding: 0 60px; }
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
