@@ -246,7 +246,7 @@ ul.posts .datetime {
 section.post {
 
   margin: 0 -60px;
-  text-align: left;
+  text-align: justify;
   border-top: 0;
   padding: 0; }
   section.post > * {
@@ -277,7 +277,6 @@ section.post, section > p {
   line-height: 1.6em; }
   section.post *, section > p * {
     max-width: 100%; }
-    text-align: justify;
   section.post em strong, section > p em strong {
     background-color: #ffffee;
     padding: 0 2px; }
