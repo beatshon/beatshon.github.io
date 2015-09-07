@@ -5,7 +5,7 @@ html, body {
   height: 100%; }
 
 body {
- @ import url(http://fonts.googleapis.com/earlyaccess/nanummyeongjo.css);
+ 
   background: #f9f9f9;
   color: #303030;
   font-family: 'Nanum Myeongjo','Open Sans', sans-serif;
