@@ -274,7 +274,7 @@ section.post {
 section.post, section > p {
   font-size: 14px;
   line-height: 1.6em; }
-  text-align: justify;
+  
   section.post *, section > p * {
     max-width: 100%; }
   section.post em strong, section > p em strong {
