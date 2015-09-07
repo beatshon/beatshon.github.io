@@ -7,11 +7,12 @@ html, body {
 body {
  
  
+ @font-face {
+  font-family: "Nanum Myeongjo";
   font-style: normal;
   font-weight: 400;
-  src: url("http://fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.woff2") format("embedded-opentype"), url("//fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.woff2") format("woff2"), url("//fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.woff") format("woff"), url("//fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.ttf") format("truetype");
+  src: url("//fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.eot?#iefix") format("embedded-opentype"), url("//fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.woff2") format("woff2"), url("//fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.woff") format("woff"), url("//fonts.gstatic.com/ea/nanummyeongjo/v4/NanumMyeongjo-Regular.ttf") format("truetype");
 }
- 
   
   font-size: 13px;
   line-height: 19px;
