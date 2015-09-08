@@ -1,6 +1,6 @@
 title:            MIND LOG : 내 마음의 항해일지
 description:      Do Your Work. Don’t Be Stupid!
-url: http://jace.camp             # Site url.
+url: http://mindlog.kr             # Site url.
 signoff:   손병구      # Your name.
 disqus_shortname: beatshon # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid: 267956736618918  # appid for like button, remove from /_includes/share.html if unwanted.
