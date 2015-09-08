@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 광고에 대한 명쾌하고 직관적인 정의
+title: 명쾌하고 직관적인 광고의 정의
 disqus: y
 share: y
 date: 2014-01-02 22:49:00
