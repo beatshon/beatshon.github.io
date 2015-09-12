@@ -7,10 +7,10 @@ facebook_appid: 267956736618918  # appid for like button, remove from /_includes
 google_analytics: UA-29786791-1 # set tracking, remove from /javascripts/basic.js if unwanted.
 
 links:
-  - name:         ABOUT?
+  - name:         About
     url:          /about
     
-  - name:         MOBILE LOG
+  - name:         M-LOG
     url:          http://beatshon.tumblr.com/
     external:     true
     
@@ -18,7 +18,7 @@ links:
     url:          mailto:beatshon@gmail.com
     external:     true
     
-  - name:         TOPICA
+  - name:         Topica
     url:          http://topica.tistory.com
     external:     true
     
