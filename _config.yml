@@ -10,8 +10,8 @@ links:
   - name:         About
     url:          /about
     
-  - name:         M-LOG
-    url:          http://beatshon.tumblr.com/
+  - name:         life-LOG
+    url:          http://mindlog.kr
     external:     true
     
   - name:         Email
