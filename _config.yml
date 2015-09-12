@@ -19,6 +19,10 @@ links:
   - name:         Topica
     url:          http://topica.tistory.com
     external:     true
+    
+  - name:         Contents Story
+    url:          https://www.facebook.com/contents.story
+    external:     true
 
 pygments:         true
 permalink:        pretty
