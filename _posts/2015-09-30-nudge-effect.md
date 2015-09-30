@@ -5,7 +5,9 @@ disqus: y
 share: y
 date:   2015-09-30 23:12:00
 ---
->Tell me and I’ll forget; show me and I may remember; involve me and I’ll understand.
+>Tell me and I’ll forget; </br>
+show me and I may remember; </br>
+involve me and I’ll understand.
 
 '이야기하면 잊어버리고, 보여주면 기억하고, 참여시키면 비로소 이해한다' 중국속담이 있다. 청각과 시각보다 더욱 효과적인 것이 경험이라는 관점에서 고개를 끄덕거리게 만든다.
 
