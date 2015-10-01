@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Nudge Effect 
+title: Nudge Effect의 핵심
 disqus: y
 share: y
 date:   2015-09-30 23:12:00
