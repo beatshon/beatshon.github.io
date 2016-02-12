@@ -11,7 +11,7 @@ date: 2013-09-09 22:34:32
 <br/>
 David H. Maister, [True Proffessionalism]</blockquote>
 
-</br>
+
 
 동기부여란 시스템이나 연봉(성과급)때문에 생기는 게 아니라 일(業)을 바라보는 개인의 관점과 태도에 달렸다.  
 
