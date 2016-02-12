@@ -6,8 +6,8 @@ share: y
 date:   2015-09-30 23:12:00
 ---
 
-><p>Tell me and I’ll forget; <br />
->show me and I may remember; <br />
+><p>Tell me and I’ll forget <br />
+>show me and I may remember <br />
 >involve me and I’ll understand.</P>
 
 '이야기하면 잊어버리고, 보여주면 기억하고, 참여시키면 비로소 이해한다'는 중국속담이 있다. '청각'과 '시각'보다 '관여할수 있는 경험'을 제공하는 것이 가장 강력하다는 점에서 고개를 끄덕인다.
