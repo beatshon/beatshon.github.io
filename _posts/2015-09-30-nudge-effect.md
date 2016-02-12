@@ -6,8 +6,8 @@ share: y
 date:   2015-09-30 23:12:00
 ---
 
-><p>Tell me and I’ll forget <br />
->show me and I may remember <br />
+><p>Tell me and I’ll forget; <br />
+>show me and I may remember; <br />
 >involve me and I’ll understand.</P>
 
 '이야기하면 잊어버리고, 보여주면 기억하고, 참여시키면 비로소 이해한다'는 중국속담이 있다. '청각'과 '시각'보다 '관여할수 있는 경험'을 제공하는 것이 가장 강력하다는 점에서 고개를 끄덕인다.
@@ -31,7 +31,7 @@ date:   2015-09-30 23:12:00
 흡연자들의 주목을 단번에 끌고, 경험(습관)을 바꾸는 참신한 아이디어다. 생각과 행동을 바꾸는 것이 거창할 필요는 없다. 챰여를 끌어내는 동기는 '나를 관여하게끔 만드는 단순한 재미'일 수도 있다. <P></br>
 
 
-이 캠페인이 어떤 강력한 메시지보다 힘을 발휘할 수 있는 것은 사람들의 마음을 움직일 수 있는 실질적인 동기를 '재미'라는 관점으로 풀어냈기때문이다. 수백번 이야기하고, 보여주는 것보다 단 한번을 움직일 수 있는 부드러운 개입이 [Nudge Effect](http://terms.naver.com/entry.nhn?docId=929664&cid=43667&categoryId=43667)의 핵심이다. <P></br>
+이 캠페인이 어떤 강력한 메시지보다 힘을 발휘할 수 있는 것은 사람들의 마음을 움직일 수 있는 실질적인 동기를 '재미'라는 관점으로 풀어냈기때문이다. 수백번 이야기하고, 보여주는 것보다 단 한번을 움직일 수 있는 부드러운 개입이 <a href="http://terms.naver.com/entry.nhn?docId=929664&cid=43667&categoryId=43667">Nudge Effect</a>의 핵심이다. <P></br>
 
 
 <P></br>
