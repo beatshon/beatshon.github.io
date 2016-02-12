@@ -42,5 +42,5 @@ date:   2015-09-30 23:12:00
 
 
 *캠페인 소개 링크<P>
-- <a href="https://www.hubbub.org.uk/neat-streets">Neet Streets 프로젝트</a>
+-<a href="https://www.hubbub.org.uk/neat-streets">Neet Streets 프로젝트</a>
 
