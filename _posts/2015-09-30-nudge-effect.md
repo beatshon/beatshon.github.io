@@ -35,7 +35,7 @@ date:   2015-09-30 23:12:00
 
 
 
-
+<br /><br />
 <P>*생각의 발아점<br />
 -<a href="http://www.huffingtonpost.kr/2015/09/07/story_n_8097952.html
 ">거리의 담배꽁초를 막아내는 재밌는 공중 재떨이</a></P>
