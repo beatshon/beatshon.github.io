@@ -34,11 +34,12 @@ date:   2015-09-30 23:12:00
 이 캠페인이 어떤 강력한 메시지보다 힘을 발휘할 수 있는 것은 사람들의 마음을 움직일 수 있는 실질적인 동기를 '재미'라는 관점으로 풀어냈기때문이다. 수백번 이야기하고, 보여주는 것보다 단 한번을 움직일 수 있는 부드러운 개입이 <a href="http://terms.naver.com/entry.nhn?docId=929664&cid=43667&categoryId=43667">Nudge Effect</a>의 핵심이다. <P></br>
 
 
-<P></br>
+
 
 *생각의 발아점<P></br>
-- [거리의 담배꽁초를 막아내는 재밌는 공중 재떨이](http://www.huffingtonpost.kr/2015/09/07/story_n_8097952.html)
-</br></br>
+-<a href="http://www.huffingtonpost.kr/2015/09/07/story_n_8097952.html
+">[거리의 담배꽁초를 막아내는 재밌는 공중 재떨이]</a></P></P>
+
 
 *캠페인 소개 링크<P></br>
 - [Neet Streets 프로젝트](https://www.hubbub.org.uk/neat-streets)
