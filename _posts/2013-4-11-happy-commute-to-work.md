@@ -8,7 +8,7 @@ date: 2013-04-11 23:09:32
 
 <p align="center">
 
-<img src='/images/happy.jpg' "행복한 출근길">
+<img src="http://beatshon.github.io/images/happy.jpg">
 
 
 </P>
