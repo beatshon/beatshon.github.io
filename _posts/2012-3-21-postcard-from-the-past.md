@@ -27,7 +27,7 @@ date: 2012-03-21 20:25:32
 > *제주도 대륜해안 올레길에서는 '보내지 못하는 편지' & '1년 후 보내는 편지'를 쓸 수 있습니다. 편지는 정확하게 1년 후 본인이 받아 볼 수 있습니다.  
 <p align=center>
 
-<img src='/images/postcard.png' "postcard">
+<img src='http://beatshon.github.io/images/postcard.png' "postcard">
 
 </P>
 
