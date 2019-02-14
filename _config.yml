@@ -28,3 +28,4 @@ pygments:         true
 permalink:        pretty
 
 markdown: kramdown
+highlighter: rouge
