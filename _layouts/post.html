@@ -1,9 +1,9 @@
 <html>
   <head>
-    <meta content='{{ page.title }} - {{ site.title }}' property='og:title'/> 
+    <meta content='{{ page.title }} - {{ site.title }}' property='og:title'/>
     <title>{{ page.title }} - {{ site.title }}</title>
     {% include head.html %}
-    
+
   </head>
   <body>
     {% include header.html %}
@@ -22,6 +22,7 @@
 
         </section>
       </div>
+      <!--
       {% if page.share == 'y' %}
         {% include share.html %}
       {% endif %}
@@ -32,5 +33,14 @@
       {% include links.html %}
     </div>
     {% include footer.html %}
+  -->
+  <script src="https://utteranc.es/client.js"
+        repo="beatshon/repo"
+        issue-term="pathname"
+        label="comments"
+        theme="github-light"
+        crossorigin="anonymous"
+        async>
+</script>
   </body>
 </html>
