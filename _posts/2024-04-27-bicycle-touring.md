@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 대나무 같은 단단한 삶 속에서의 사유|자전거 여행
+title: 대나무 같은 단단한 삶 속에서의 사유 | 자전거 여행
 disqus: y
 share: y
 date: 2024-04-26 23:00:00
