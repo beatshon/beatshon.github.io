@@ -9,20 +9,20 @@ google_analytics: UA-29786791-1 # set tracking, remove from /javascripts/basic.j
 links:
   - name:         About
     url:          /about
-    
+
   - name:         life-LOG
-    url:          https://brunch.co.kr/@beatshon7zxi
+    url:          https://www.instagram.com/jace_log/
     external:     true
-    
+
   - name:         Email
     url:          mailto:beatshon@gmail.com
     external:     true
-    
+
   - name:         Topica
     url:          http://topica.tistory.com
     external:     true
-    
- 
+
+
 
 pygments:         true
 permalink:        pretty
