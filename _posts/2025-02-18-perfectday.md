@@ -5,9 +5,10 @@ disqus: y
 share: y
 date: 2025-02-17 21:33:00
 ---
-<!--
-![퍼펙트데이](/images/naoki.JPG)
--->
+
+
+![퍼펙트데이](/images/perfect.JPG)
+
 
 
 
