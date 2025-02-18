@@ -55,6 +55,29 @@ date: 2025-02-17 21:33:00
 
 벨벳언더그라운드 - pale blue eye는 영화 접속의 자동차 질주 씬에도 나온다.
 
+>The House of the Rising Sun(애니멀스, 1964년)
+
+>Pale Blue Eyes(벨벳 언더그라운드, 1969년)
+
+>(Sittin'On) The Dock of the Bay(오티스 레딩, 1968년)
+
+>Redondo Beach(패티 스미스, 1975년)
+
+>(Walkin'Thru the) Sleepy City(롤링 스톤스, 1964년)
+
+>Perfect Day(루 리드, 1972년)
+
+>青い魚(카네노부 사치코, 1972년)
+
+>Sunny Afternoon(킹크스, 1966년)
+
+>Brown Eyed Girl(밴 모리슨, 1967년)
+
+>Feeling Good(니나 시몬, 1965년)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FxlJoTP4BPk?si=gv6dNEkfBYCuAsi3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 **[영화의 매력 3 - 열린 결말]**
 
 ![퍼펙트데이](/images/perfect.jpg)
