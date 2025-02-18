@@ -7,7 +7,7 @@ date: 2025-02-17 21:33:00
 ---
 
 
-![퍼펙트데이](/images/perfect.JPG)
+![퍼펙트데이](images/perfect.jpg)
 
 
 
