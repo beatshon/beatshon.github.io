@@ -53,7 +53,7 @@ date: 2025-02-17 21:33:00
 
 **[영화의 매력 2 -  장면을 가로지르는 OST의 향연]**
 
-영화 속 총 10곡의 올드팝을 듣는 것도 묘미다. 10곡 중 벨벳언더그라운드의 Pale Blue Eyes는 영화 접속에서 삽입된 음악이기도 해서 더욱 반갑게 느껴진다.
+영화 속 총 10곡의 올드팝을 듣는 것도 묘미다. 특히 벨벳언더그라운드의 Pale Blue Eyes는 영화 접속에서 삽입된 음악이기도 해서 더욱 반갑게 느껴진다.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FxlJoTP4BPk?si=gv6dNEkfBYCuAsi3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -85,7 +85,7 @@ date: 2025-02-17 21:33:00
 
 ![퍼펙트데이](/images/perfect.jpg)
 
-퍼펙트 데이즈의 마지막 장면은 히라야마의 출근길을 클로즈업 하는 것이다. 웃으면서도 눈물짓는 야릇한 표정은 영화가 담고 있는 중의적 감정을 야쿠쇼 코지의 연기력으로 표출하고 있다.
+퍼펙트 데이즈의 마지막 장면은 히라야마의 출근길을 클로즈업 한다. 웃고 있으면서도 눈물짓는 야릇한 표정은 영화가 담고 있는 중의적 감정을 야쿠쇼 코지의 연기력으로 표출하고 있다.
 
 다시 일상으로 돌아온 안온함에 대한 벅찬 감정인지 일상 중간 중간 변주를 울렸던 개별 사건들에 대한 회한때문인지 누구도 확신 할 수 없다. 그래서 해당 장면이 빛난다.
 
