@@ -55,6 +55,9 @@ date: 2025-02-17 21:33:00
 
 영화 속 총 10곡의 올드팝을 듣는 것도 묘미다. 10곡 중 벨벳언더그라운드의 Pale Blue Eyes는 영화 접속에서 삽입된 음악이기도 해서 더욱 반갑게 느껴진다.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FxlJoTP4BPk?si=gv6dNEkfBYCuAsi3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 >The House of the Rising Sun(애니멀스, 1964년)
 >
 >Pale Blue Eyes(벨벳 언더그라운드, 1969년)
@@ -75,7 +78,7 @@ date: 2025-02-17 21:33:00
 >
 >Feeling Good(니나 시몬, 1965년)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FxlJoTP4BPk?si=gv6dNEkfBYCuAsi3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 
 
 **[영화의 매력 3 - 열린 결말]**
