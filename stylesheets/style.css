@@ -325,16 +325,18 @@ section.post, section > p {
 
 
   .image-caption {
-    width: 100%;
+    max-width: 100%; /* 부모 컨테이너를 넘지 않도록 설정 */
+    width: 100%; /* 컨테이너에 맞추기 */
     text-align: center;
   }
 
   .image-caption img {
-    width: 100%;
+    max-width: 100%;
     height: auto;
     display: block;
-    max-width: none;
+    margin: 0 auto;
   }
+
 
 
 pre {
