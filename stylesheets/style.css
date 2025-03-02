@@ -329,11 +329,7 @@ section.post, section > p {
     text-align: center;
   }
 
-  .image-caption img {
-    width: 100%;
-    height: auto;
-    display: block;
-  }
+
 
   .image-caption img {
     max-width: none;
