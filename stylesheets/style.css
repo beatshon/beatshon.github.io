@@ -324,43 +324,7 @@ section.post, section > p {
 
 
 
-  .image-caption {
-    max-width: 100%; /* 부모 컨테이너를 넘지 않도록 설정 */
-    width: 100%; /* 컨테이너에 맞추기 */
-    text-align: center;
-  }
-
-  .image-caption img {
-    max-width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-  }
-
-  .image-caption {
-    max-width: 100% !important;
-    width: 100% !important;
-    text-align: center;
-    overflow: hidden;
-  }
-
-  .image-caption img {
-    max-width: 100% !important;
-    width: 100% !important;
-    height: auto !important;
-    display: block !important;
-    margin: 0 auto !important;
-  }
-
-  .post, .content {
-    max-width: 100% !important;
-    width: 100% !important;
-    overflow: hidden !important;
-  }
-
-  * {
-    box-sizing: border-box !important;
-  }
+  
 
 
 
