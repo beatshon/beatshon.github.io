@@ -323,20 +323,18 @@ section.post, section > p {
   padding: 0; }
 
 
-.image-caption {
+
+  .image-caption {
+    width: 100%;
     text-align: center;
   }
 
   .image-caption img {
-    max-width: 100%;
+    width: 100%;
     height: auto;
+    display: block;
   }
 
-  .image-caption figcaption {
-    font-size: 14px;
-    color: #666;
-    margin-top: 5px;
-  }
 
 pre {
   overflow-x: auto;
