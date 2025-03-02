@@ -7,14 +7,14 @@ html, body {
   height: 100%; }
 
 body {
- 
+
   background: #f9f9f9;
   color: #303030;
   font-family: 'Nanum Myeongjo',serif;
   font-weight: 400;
 
-  
-  
+
+
   font-size: 13px;
   line-height: 19px;
   padding: 0;
@@ -251,7 +251,7 @@ section.post {
   padding: 0; }
   section.post > * {
     padding: 0 60px; }
-    
+
   section.post ul ul, section.post ul ol, section.post ol ul, section.post ol ol {
     margin-left: 20px;
     padding: 0; }
@@ -321,6 +321,22 @@ section.post, section > p {
 .highlight {
   margin: 0;
   padding: 0; }
+
+
+.image-caption {
+    text-align: center;
+  }
+
+  .image-caption img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .image-caption figcaption {
+    font-size: 14px;
+    color: #666;
+    margin-top: 5px;
+  }
 
 pre {
   overflow-x: auto;
