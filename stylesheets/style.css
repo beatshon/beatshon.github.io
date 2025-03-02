@@ -335,6 +335,11 @@ section.post, section > p {
     display: block;
   }
 
+  .image-caption img {
+    max-width: none;
+    width: 100%;
+  }
+
 
 pre {
   overflow-x: auto;
