@@ -1,0 +1,39 @@
+<html>
+  <head>
+    <meta content='{{ page.title }} - {{ site.title }}' property='og:title'/>
+    <title>{{ page.title }} - {{ site.title }}</title>
+    {% include head.html %}
+  </head>
+  <body>
+    {% include header.html %}
+    <div id='container'>
+      {% include links.html %}
+      <div class="content">
+        <section class='post'>
+          {% assign letter_post = site.posts | where_exp: "item", "item.path contains 'letter01'" | first %}
+          {% if letter_post %}
+          <h1 class="upcase">
+            <div class='date'>{{ letter_post.date | date_to_string }}</div>
+            {{ letter_post.title }}
+          </h1>
+          {{ letter_post.content }}
+          <br />
+          <p>
+            {{ site.signoff }}
+            <span class="muted">{{ letter_post.date | date: "at %H:%M" }}</span>
+          </p>
+          <p>
+            <img src="/images/jace.png" />
+          </p>
+          {% else %}
+          <p>뉴스레터 글이 없습니다.</p>
+          {% endif %}
+        </section>
+      </div>
+      {% include share.html %}
+      {% include disqus.html %}
+      {% include links.html %}
+    </div>
+    {% include footer.html %}
+  </body>
+</html>
