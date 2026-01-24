@@ -234,12 +234,19 @@ ul.posts li {
   flex-direction: row-reverse;
   justify-content: space-between;
   align-items: center; }
+ul.posts li .datetime,
+ul.posts li a {
+  line-height: 22px;
+  min-height: 22px;
+  display: flex;
+  align-items: center; }
+ul.posts li a {
+  flex: 1;
+  min-width: 0; }
 ul.posts .datetime {
-  display: inline-block;
-  vertical-align: baseline;
-  zoom: 1;
-  *display: inline;
-  *vertical-align: auto;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
   width: 130px;
   flex-shrink: 0;
   text-transform: uppercase;

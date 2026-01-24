@@ -166,13 +166,26 @@ ul.posts {
     flex-direction: row-reverse;
     justify-content: space-between;
     align-items: center;
+
+    .datetime, a {
+      line-height: 22px;
+      min-height: 22px;
+      display: flex;
+      align-items: center;
+    }
+    a {
+      flex: 1;
+      min-width: 0;
+    }
   }
   .datetime {
-    @include inline-block;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
     width: 130px;
     flex-shrink: 0;
     text-transform: uppercase;
-    float: none; /* flex로 배치되므로 float 해제 */
+    float: none;
     color: #999;
     font-size: 10px;
     text-align: right;
