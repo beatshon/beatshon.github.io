@@ -1,11 +1,7 @@
 // Supabase 익명 댓글 — beatshon.github.io
 // anon key: Supabase 대시보드 > Settings > API > Project API keys > anon public
-// window 할당으로 중복 로드 시에도 오류 방지
-window.SUPABASE_URL = window.SUPABASE_URL || 'https://rxymhbkxboiqvjdvobmm.supabase.co';
-window.SUPABASE_ANON_KEY = window.SUPABASE_ANON_KEY || 'sb_publishable_zmAY14aXLIQx7zpTzuaa5w_FyhERJ5f';
-
-var SUPABASE_URL = window.SUPABASE_URL;
-var SUPABASE_ANON_KEY = window.SUPABASE_ANON_KEY;
+var SUPABASE_URL = 'https://rxymhbkxboiqvjdvobmm.supabase.co';
+var SUPABASE_ANON_KEY = 'sb_publishable_zmAY14aXLIQx7zpTzuaa5w_FyhERJ5f';
 
 // 현재 포스트 식별자 (pathname 기준)
 const POST_ID = window.location.pathname;
