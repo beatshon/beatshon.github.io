@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>공유하기 — 다시, 한 줄</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+KR:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      padding: 24px;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      font-family: 'Noto Serif KR', 'Georgia', serif;
+      background: #faf9f6;
+      color: #1a1a1a;
+      text-align: center;
+    }
+    h1 { font-size: 18px; font-weight: 600; margin: 0 0 8px; color: #c8b99a; letter-spacing: 2px; }
+    p { font-size: 15px; line-height: 1.6; margin: 0 0 24px; color: #666; max-width: 320px; }
+    .btn {
+      display: inline-block;
+      padding: 14px 28px;
+      background: #FEE500;
+      color: #1a1a1a;
+      font-family: inherit;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+      letter-spacing: 1px;
+    }
+    .btn:hover { background: #f5dc00; }
+    .btn:disabled { opacity: 0.7; cursor: not-allowed; }
+    .fallback { margin-top: 16px; font-size: 13px; color: #999; }
+    .fallback a { color: #c8b99a; text-decoration: underline; }
+  </style>
+</head>
+<body>
+  <h1>공유하기</h1>
+  <p id="desc">아래 버튼을 누르면 카카오톡 등 앱으로 제목과 링크가 함께 공유됩니다.</p>
+  <button type="button" class="btn" id="shareBtn">카카오톡 등으로 공유</button>
+  <div class="fallback" id="fallback" style="display:none;"></div>
+
+  <script>
+    (function() {
+      var params = {};
+      location.search.slice(1).split('&').forEach(function(pair) {
+        var i = pair.indexOf('=');
+        if (i === -1) return;
+        params[decodeURIComponent(pair.slice(0, i))] = decodeURIComponent(pair.slice(i + 1).replace(/\+/g, ' '));
+      });
+      var title = params.title || '';
+      var url = params.url || '';
+
+      var descEl = document.getElementById('desc');
+      var shareBtn = document.getElementById('shareBtn');
+      var fallbackEl = document.getElementById('fallback');
+
+      if (!title && !url) {
+        descEl.textContent = '제목과 링크가 포함된 주소로 접속해 주세요. (뉴스레터 메일에서 「카카오톡」 버튼을 누르면 이 페이지로 이동합니다.)';
+        shareBtn.style.display = 'none';
+        return;
+      }
+
+      function doShare() {
+        if (!navigator.share) {
+          fallbackEl.style.display = 'block';
+          var text = (title ? title + '\n' : '') + url;
+          fallbackEl.innerHTML = '이 기기에서는 공유 메뉴를 지원하지 않습니다. <a href="kakaotalk://send?text=' + encodeURIComponent(text) + '">카카오톡 열기</a> 또는 링크를 복사해 보내세요.';
+          return;
+        }
+        navigator.share({
+          title: title || '다시, 한 줄',
+          text: title || '',
+          url: url || location.origin
+        }).then(function() {
+          shareBtn.textContent = '공유됨';
+          shareBtn.disabled = true;
+        }).catch(function(err) {
+          if (err.name !== 'AbortError') {
+            fallbackEl.style.display = 'block';
+            fallbackEl.textContent = '공유에 실패했습니다. 링크를 복사해 보내세요: ' + url;
+          }
+        });
+      }
+
+      shareBtn.addEventListener('click', doShare);
+    })();
+  </script>
+</body>
+</html>
