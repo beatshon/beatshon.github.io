@@ -31,15 +31,7 @@
         {% include disqus.html %}
       {% endif %}
 
-      <!-- Cusdis 댓글 (호별 댓글 스레드) -->
-      <div id="cusdis_thread"
-        data-host="https://cusdis.com"
-        data-app-id="07d3b94b-3323-42ac-83c3-c0bcd5b98c66"
-        data-page-id="{{ page.url | default: page.id }}"
-        data-page-url="{{ page.url | absolute_url }}"
-        data-page-title="{{ page.title | escape }}"
-      ></div>
-      <script async defer src="https://cusdis.com/js/cusdis.es.js"></script>
+      {% include comments.html %}
 
       {% include links.html %}
     </div>
