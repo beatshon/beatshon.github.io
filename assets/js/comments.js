@@ -1,7 +1,10 @@
 // Supabase 익명 댓글 — beatshon.github.io
 // anon key: Supabase 대시보드 > Settings > API > Project API keys > anon public
 const SUPABASE_URL = 'https://rxymhbkxboiqvjdvobmm.supabase.co';
-const SUPABASE_ANON_KEY = 'PASTE_PUBLISHABLE_KEY_HERE'; // Publishable key 전체 붙여넣기
+// Supabase 익명 댓글 — beatshon.github.io
+// anon key: Supabase 대시보드 > Settings > API > Project API keys > anon public
+const SUPABASE_URL = 'https://rxymhbkxboiqvjdvobmm.supabase.co';
+const SUPABASE_ANON_KEY = 'sb_publishable_zmAY14aXLIQx7zpTzuaa5w_FyhERJ5f'; // ← 여기: 따옴표 안의 글자만 지우고, 복사한 anon key 붙여넣기 (따옴표는 그대로 둠)
 
 // 현재 포스트 식별자 (pathname 기준)
 const POST_ID = window.location.pathname;
