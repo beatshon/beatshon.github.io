@@ -1,9 +1,9 @@
-<!-- share-buttons.html: 카카오톡(kakaotalk://), 페이스북, 링크 복사 -->
+<!-- share-buttons.html: Web Share API(카카오톡 등) + 페이스북 + 링크 복사 -->
 <div id="share-section" style="margin: 48px 0 32px; padding-top: 32px; border-top: 1px solid #e8e6e3; text-align: center; font-family: 'Noto Serif KR', serif;">
   <p style="font-size: 12px; color: #9a9a9a; letter-spacing: 2px; margin-bottom: 20px;">이 글이 좋았다면 공유해주세요</p>
   <div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
 
-    <button onclick="window.open('kakaotalk://send?text=' + encodeURIComponent(document.title + '\n' + window.location.href.split('#')[0]))"
+    <button onclick="shareKakaoOrNative()"
       style="padding: 10px 20px; background: #FEE500; color: #1a1a1a;
              border: none; font-family: 'Noto Serif KR', serif; font-size: 13px;
              letter-spacing: 1px; cursor: pointer;">
@@ -30,6 +30,23 @@
 <script>
 (function() {
   var pageUrl = window.location.href.split('#')[0];
+  var pageTitle = document.title;
+
+  /** 카카오톡 공유: Web Share API 사용 시 앱 선택(카카오톡 등) 후 제목+URL 전달. 미지원 시 kakaotalk:// 링크로 이동 */
+  window.shareKakaoOrNative = function() {
+    var text = pageTitle + '\n' + pageUrl;
+    if (typeof navigator !== 'undefined' && navigator.share) {
+      navigator.share({
+        title: pageTitle,
+        text: pageTitle,
+        url: pageUrl
+      }).then(function() { /* 공유 완료 */ }).catch(function() {
+        window.open('kakaotalk://send?text=' + encodeURIComponent(text), '_blank');
+      });
+      return;
+    }
+    window.open('kakaotalk://send?text=' + encodeURIComponent(text), '_blank');
+  };
 
   window.shareFacebook = function() {
     window.open(
