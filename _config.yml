@@ -1,5 +1,5 @@
 title:            MIND LOG(내마음의 항해일지)
-description:      Do Your Work. Don’t Be Stupid!
+description:      Do Your Work. Don't Be Stupid!
 url: http://beatshon.github.io            # Site url.
 future:           true   # 미래 날짜 포스트도 아카이브에 표시 (뉴스레터 letter03 등)
 signoff:   손병구      # Your name.
@@ -25,6 +25,10 @@ links:
 
   - name:         Newsletter
     url:          /newsletter/
+
+  - name:         Ontology
+    url:          https://againline.kr
+    external:     true
 
 
 
