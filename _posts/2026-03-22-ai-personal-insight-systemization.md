@@ -4,7 +4,7 @@ title: AI가 나의 생각을 정리해주는 시대: 개인 인사이트 시스
 disqus: y
 share: y
 date: 2026-03-22 18:33:20
-categories: ai-trend
+
 ---
 
 # AI가 나의 생각을 정리해주는 시대: 개인 인사이트 시스템화의 가능성
