@@ -1,11 +1,12 @@
 title:            MIND LOG(내마음의 항해일지)
 description:      Do Your Work. Don't Be Stupid!
-url: http://beatshon.github.io            # Site url.
+url: https://beatshon.github.io            # Site url.
 future:           true   # 미래 날짜 포스트도 아카이브에 표시 (뉴스레터 letter03 등)
 signoff:   손병구      # Your name.
 disqus_shortname: beatshon # disqus comment thread for post header options. ( leave blank if unwanted. )
 facebook_appid: 267956736618918  # appid for like button, remove from /_includes/share.html if unwanted.
-google_analytics: UA-29786791-1 # set tracking, remove from /javascripts/basic.js if unwanted.
+google_analytics: # GA4 측정 ID(G-XXXXXXXXXX) 입력 시 활성화. 기존 UA-29786791-1은 2023년 종료
+default_image: /images/scribble.png # og:image 기본값 (글별로 front matter의 image로 덮어쓰기)
 
 links:
   - name:         About
@@ -31,6 +32,9 @@ links:
     external:     true
 
 
+
+plugins:
+  - jekyll-sitemap
 
 pygments:         true
 permalink:        pretty
