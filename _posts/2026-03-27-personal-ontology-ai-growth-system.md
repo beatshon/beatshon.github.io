@@ -3,6 +3,7 @@ layout: post
 title: "AI 시대, 개인 온톨로지로 나만의 성장 시스템을 만들다"
 disqus: y
 share: y
+published: false
 date: 2026-03-27 12:01:14
 ---
 
