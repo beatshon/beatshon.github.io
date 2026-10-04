@@ -4,6 +4,7 @@ title: 프로페셔널리즘에 대한 짧은 생각
 disqus: y
 share: y
 date: 2013-09-09 22:34:32
+description: "동기부여는 시스템이나 성과급이 아니라 일을 대하는 태도에서 나오며, 프로페셔널리즘은 지식보다 마음가짐에서 비롯된다는 생각입니다."
 ---
 
 ![프로페셔널](http://beatshon.github.io/images/pro.png)
