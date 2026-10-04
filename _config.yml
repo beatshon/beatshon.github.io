@@ -32,10 +32,6 @@ links:
   - name:         Newsletter
     url:          /newsletter/
 
-  - name:         Ontology
-    url:          https://againline.kr
-    external:     true
-
 
 
 plugins:
