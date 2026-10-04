@@ -1,0 +1,28 @@
+{% comment %}글 하단 이전/다음 글. series가 있으면 같은 시리즈 안에서, 없으면 전체 글 기준.{% endcomment %}
+{% assign nav_older = page.previous %}
+{% assign nav_newer = page.next %}
+{% if page.series %}
+  {% assign series_posts = site.posts | where: "series", page.series %}
+  {% assign nav_older = nil %}
+  {% assign nav_newer = nil %}
+  {% for p in series_posts %}
+    {% if p.url == page.url %}
+      {% assign newer_i = forloop.index0 | minus: 1 %}
+      {% unless forloop.first %}{% assign nav_newer = series_posts[newer_i] %}{% endunless %}
+      {% unless forloop.last %}{% assign nav_older = series_posts[forloop.index] %}{% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+<nav class="post-nav">
+  {% if page.series %}
+    <p class="post-nav-series muted">시리즈 · <a href="/series/#{{ page.series | slugify }}">{{ page.series }}</a></p>
+  {% endif %}
+  <ul class="posts">
+    {% if nav_older.url %}
+      <li><small class="muted">이전 글</small> <a href="{{ nav_older.url }}">{{ nav_older.title }}</a></li>
+    {% endif %}
+    {% if nav_newer.url %}
+      <li><small class="muted">다음 글</small> <a href="{{ nav_newer.url }}">{{ nav_newer.title }}</a></li>
+    {% endif %}
+  </ul>
+</nav>
